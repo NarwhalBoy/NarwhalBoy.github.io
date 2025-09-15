@@ -205,6 +205,13 @@ section{
     gap: 1rem;
 }
 
+.prof-pic {
+    width: 27rem;
+    height: 27rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 /* ICONS */
 
 .icon {
@@ -365,7 +372,7 @@ article.icon {
 }
 
 .project-img {
-    border-radius: 2rem;
+    border-radius: 2rem;    
     width: 90%;
     height: 90%;
 }
